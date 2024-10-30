@@ -1,0 +1,225 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding: 20px;
+}
+.container{
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 54px;
+}
+.header__nav{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.header__list{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    list-style: none;
+}
+.header__item  {
+    color: rgb(255, 255, 255);
+font-family: "Rubik";
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+text-decoration: none;
+}
+.header__link{
+    color: rgb(54, 56, 83);
+font-family: Rubik;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+text-decoration: none;
+}
+.header__btn{
+border-radius: 5px;
+ font-size: 25px;
+ color: white;
+ background-color: darkorange;
+ border: 1px solid darkorange;
+}
+.header__p{
+    width: 513px;
+font-size: 60px;
+}
+.rng{
+    color: darkorange;
+}
+.salom{
+    width: 350px;
+    padding-top: 30px;
+}
+.salom2{
+    padding-top: 50px;
+    border-radius: 5px;
+    font-size: 25px;
+    color: darkorange;
+}
+.rang{
+    color: darkorange;
+}
+.hero{
+    padding-top: 157px;
+    padding-bottom: 238px;
+}
+.hero__textbox{
+    width: 350px;
+}
+.hero__title{
+    font-family: "Rubik";
+font-size: 40px;
+font-weight: 500;
+line-height: 78px;
+text-transform: capitalize;
+}
+.hero__text{
+    color: #363853;
+font-family: "Rubik";
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-transform: capitalize;
+margin-top: 23px;
+margin-bottom: 35px;
+}
+.hero__btns{
+    width: 163px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 5px;
+    border: none;
+box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+font-size: 25px;
+background: rgb(255, 122, 80);
+}
+.hero__wrapper{
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.containerr{
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+  
+}
+.hero__textboxx{
+    width: 384px;
+    
+}
+.hero__titlee{
+    font-family: Rubik;
+font-size: 36px;
+font-weight: 500;
+line-height: 50px;
+text-transform: capitalize;
+
+}
+.hero__textt{
+    color: rgb(54, 56, 83);
+font-family: Rubik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+margin-top: 44px;
+margin-bottom: 80px;
+}
+.hero__btnss{
+    width: 176px;
+    color: rgb(255, 255, 255);
+font-family: Rubik;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+padding: 5px;
+border: none;
+border-radius: 30px 30px 1px 30px;
+box-shadow: 0px 22px 40px 0px rgba(255, 104, 56, 0.19);
+background: rgb(255, 122, 80);
+}
+.s{
+    color: darkblue;
+}
+.h{
+    color: darkorange;
+}
+
+.text{
+    text-align: center;
+    padding-top: 20px;
+}
+.rangg{
+color: darkblue;
+}
+.rang{
+    color: coral;
+}
+.ota{
+    display: flex;
+    justify-content: space-between;
+  text-decoration: none;
+}
+.hero_rang{
+    color: black;
+  
+}
+.hero__bot{
+    color: black;
+}
+.hero__bot2{
+    color: black;
+}
+
+.srr{
+    text-decoration: none;
+    background-repeat: no-repeat;
+}
+.sh{
+    color: coral;
+}
+.ch{
+    color: darkblue;
+}
+.y{
+    color: coral;
+}
+.g{
+    color: darkblue;
+}
+.h{
+    color: coral;
+}
+.a{
+    color: darkblue;
+}
+.sa{
+    text-align: center;
+    background-color: coral;
+padding: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
